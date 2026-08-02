@@ -1,6 +1,6 @@
 # Lab 5 — Convolutional Neural Network (Keras) for Binary Image Classification
 
-A beginner-friendly, line-by-line walkthrough of `Lab_5.ipynb`. No prior CNN experience assumed — every new function is explained the first time it shows up.
+
 
 ---
 
